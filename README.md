@@ -1,4 +1,4 @@
-# :man: Hangamn
+# :man: Hangman
 Development of a Hangman game.
 
 ## :computer: Technologies
